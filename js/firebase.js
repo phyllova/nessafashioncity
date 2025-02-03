@@ -1,12 +1,12 @@
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyCF1QXPm4rN0fmiPl2dRSIEHqKyk2e9SIE",
-  authDomain: "desisupercon.firebaseapp.com",
-  databaseURL: "https://desisupercon-default-rtdb.firebaseio.com",
-  projectId: "desisupercon",
-  storageBucket: "desisupercon.appspot.com",
-  messagingSenderId: "958547183910",
-  appId: "1:958547183910:web:c237cb1f5f774dd7d9d9e7"
+apiKey: "AIzaSyDeYjuW5e5NuGFK1t8t-grhvpp8b6MMpRY",
+authDomain: "fashiondelh.firebaseapp.com",
+databaseURL: "https://fashiondelh-default-rtdb.firebaseio.com",
+projectId: "fashiondelh",
+storageBucket: "fashiondelh.appspot.com",
+messagingSenderId: "724570721055",
+appId: "1:724570721055:web:2556cf0c0d342137dafe2a"
 };
 firebase.initializeApp(firebaseConfig);
 const appCheck = firebase.appCheck();
